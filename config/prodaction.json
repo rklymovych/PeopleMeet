@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "peopleMeet",
+  "mongoUri": "mongodb+srv://Roman:121286@cluster0.ojzhx.mongodb.net/peopleMeet?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
